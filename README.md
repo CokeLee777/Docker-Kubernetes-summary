@@ -20,3 +20,4 @@
 * [X] [Worker Node](https://cokelee777.notion.site/Worker-Node-3d2d0d30f1c441d9b76aec2cdabac00f)
 * [X] [Master Node](https://cokelee777.notion.site/Master-Node-ba42a7eacae64a23babaabe9b6e37a5f)
 * [X] [Core Components](https://cokelee777.notion.site/Core-Components-19e70eff436c4cdaada80146e91ae12b)
+* [X] [Volumes](https://cokelee777.notion.site/Volume-02b4ef0e9eaf4efdb8f34331befd2133)
